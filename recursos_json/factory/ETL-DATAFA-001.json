@@ -1,0 +1,9 @@
+{
+	"name": "ETL-DATAFA-001",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0475a227-a4a7-46c5-a3d5-9866e2387b6d",
+		"tenantId": "4c483123-65b0-492f-98d8-550ea0eea89d"
+	}
+}
